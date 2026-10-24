@@ -1,0 +1,12 @@
+{
+  "invalid_total": 13,
+  "raw_degenerate_count": 13,
+  "positive_raw_extent_count": 0,
+  "fully_outside_image_count": 13,
+  "zero_width_after_clip_count": 0,
+  "zero_height_after_clip_count": 13,
+  "score_min": 0.0010129956062883,
+  "score_median": 0.0010751759400591,
+  "score_max": 0.0010981078958138,
+  "affected_image_count": 13
+}

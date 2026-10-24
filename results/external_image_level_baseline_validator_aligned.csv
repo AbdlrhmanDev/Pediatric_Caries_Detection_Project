@@ -1,0 +1,3 @@
+method,TP,FP,TN,FN,sensitivity,specificity,precision,accuracy,F1
+Frozen YOLO11s at conf 0.25,0,5,22,39,0.0,0.8148148148148148,0.0,0.3333333333333333,0.0
+All-positive classification baseline,39,27,0,0,1.0,0.0,0.5909090909090909,0.5909090909090909,0.7428571428571429

@@ -1,0 +1,13 @@
+metric,model_a,model_b,W,p_raw,p_Holm,significant_at_0_05
+COCO_mAP50,YOLO11s,RT-DETR-L,4.0,0.4375,0.625,False
+COCO_mAP50,YOLO11s,Faster R-CNN,0.0,0.0625,0.375,False
+COCO_mAP50,YOLO11s,RetinaNet,0.0,0.0625,0.375,False
+COCO_mAP50,RT-DETR-L,Faster R-CNN,3.0,0.3125,0.625,False
+COCO_mAP50,RT-DETR-L,RetinaNet,0.0,0.0625,0.375,False
+COCO_mAP50,Faster R-CNN,RetinaNet,1.0,0.125,0.375,False
+COCO_mAP50_95,YOLO11s,RT-DETR-L,6.0,0.8125,0.8125,False
+COCO_mAP50_95,YOLO11s,Faster R-CNN,1.0,0.125,0.5,False
+COCO_mAP50_95,YOLO11s,RetinaNet,0.0,0.0625,0.375,False
+COCO_mAP50_95,RT-DETR-L,Faster R-CNN,2.0,0.1875,0.5,False
+COCO_mAP50_95,RT-DETR-L,RetinaNet,0.0,0.0625,0.375,False
+COCO_mAP50_95,Faster R-CNN,RetinaNet,1.0,0.125,0.5,False

@@ -1,0 +1,26 @@
+{
+  "utc": "20261024T174836Z",
+  "gpu": "Tesla T4",
+  "python": "3.13.16 (main, Oct  1 2026, 15:40:24) [GCC 13.3.0]",
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+  "torch": "2.11.0+cu130",
+  "torchvision": "0.26.0+cu130",
+  "ultralytics": "8.4.138",
+  "torchmetrics": "1.9.0",
+  "scoring": {
+    "framework": "TorchMetrics COCO MeanAveragePrecision pycocotools",
+    "max_detection_thresholds": [
+      1,
+      10,
+      100
+    ],
+    "metric_iou_levels": "0.50:0.95, step=0.05",
+    "score_floor": 0.001,
+    "max_det": 100,
+    "nms_iou_if_applicable": 0.7,
+    "ultralytics_imgsz": 1024,
+    "batch_size": 1,
+    "preprocessing": "family-native; not harmonized across training pipelines",
+    "ultralytics_inference": "predict (not val): may differ from native replay"
+  }
+}

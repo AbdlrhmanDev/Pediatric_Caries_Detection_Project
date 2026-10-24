@@ -1,0 +1,3 @@
+cohort,lesion_TP,lesion_FP,lesion_FN,lesion_precision,lesion_recall,lesion_F1,image_TP,image_FP,image_TN,image_FN,image_sensitivity,image_specificity,image_precision,image_accuracy,image_F1
+internal,9,6,99,0.6,0.08333333333333333,0.14634146341463414,8,0,6,16,0.3333333333333333,1.0,1.0,0.4666666666666667,0.5
+external,0,6,55,0.0,0.0,0.0,0,5,22,39,0.0,0.8148148148148148,0.0,0.3333333333333333,0.0
