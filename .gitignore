@@ -1,0 +1,12 @@
+# No source radiographs, weights or private expert approval records
+*.pt
+*.pth
+*.ckpt
+*.dicom
+*.dcm
+*.pdf
+**/__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+private_data/
+expert_signatures/

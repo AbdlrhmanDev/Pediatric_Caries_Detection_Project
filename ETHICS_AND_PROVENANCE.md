@@ -1,0 +1,7 @@
+# Research ethics, clinical adjudication and provenance — scope of evidence
+
+This study is a **secondary analysis of previously acquired** pediatric panoramic radiographs. It did not recruit participants or acquire new images. This does not, by itself, prove that an institutional review/exemption determination is unnecessary. Refer to the source publications for their original approvals, anonymization statements and consent policies; authors must verify any additional institutional requirements for the present secondary analysis.
+
+The research team reported that two clinicians approved corrections to 33 flagged held-out images (11 originally caries-box-negative images; 22 with disputed original boxes). The current public evidence contains QA manifests and metrics, but not independently verifiable signatures, reviewer identities or the complete signed adjudication record. Such records should be retained privately by the authors, including dates, blinded review protocol, adjudication criteria, and a record of changes for each image. Approval of these selected corrections must not be described as a complete reannotation of all 96 images, the development set, or all diagnostic labels.
+
+The MOPG-7 66-image selection history, individual ages and patient-level non-overlap were not fully verified. The reported screening found no exact cross-dataset image duplicates and one perceptually flagged pair with no convincing visual identity, but this cannot prove distinct patients.
