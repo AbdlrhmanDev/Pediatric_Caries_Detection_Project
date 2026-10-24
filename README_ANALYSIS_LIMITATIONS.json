@@ -1,0 +1,15 @@
+{
+  "analysis": "Exploratory paired sensitivity: source-defined reference versus 11 previously source-negative images with 22 approved added boxes versus combined adjudication of 33 images (11 missing-box and 22 legacy-box images).",
+  "model_sha256": "19ce0e2ae9731a9acb5baeaa4cb514782aa182e7d916d8a101298dd59cdb077e",
+  "source_images_modified": false,
+  "source_annotation_files_modified": false,
+  "ultralytics_version": "8.4.139",
+  "imgsz": 1024,
+  "confidence_AP": 0.001,
+  "confidence_operating": 0.25,
+  "NMS_iou": 0.7,
+  "max_detections": 300,
+  "bootstrap_replicates": 2000,
+  "caveat": "Expert-approved correction applies only to 33 flagged images, not all 96 radiographs or training annotation sets. Reviewer asserted final approval in conversation; retain original written specialist approval.",
+  "reproducibility": "Checkpoints are held in the project Drive and not bundled for redistribution; data source licenses may limit release."
+}
